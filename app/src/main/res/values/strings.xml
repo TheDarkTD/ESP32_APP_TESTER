@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">ESP32_APP_TESTER</string>
+    <string name="connection">Conexão</string>
+    <string name="data">Dados</string>
+    <string name="home">  Home</string>
+    <string name="settings">Configuração</string>
+
+
+    <string name="Nome">mName</string>
+    <string name="emailusuario">mEmail</string>
+    <string name="hello_blank_fragment">"Ola"+"Nome"</string>
+    <string name="hello_b">Status de conexão</string>
+    <string name="atual">Última atualização às: 16:45</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Register1">Preencha com as informações do usuário do dispositivo!</string>
+    <string name="Register2">Crie sua conta</string>
+    <string name="birth">Data de nascimento</string>
+    <string name="email">Email</string>
+    <string name="name">Nome</string>
+    <string name="surname">Sobrenome</string>
+    <string name="confirm">Confirme sua senha</string>
+    <string name="password">Senha</string>
+    <string name="next">Próximo</string>
+    <string name="ret">Retornar Home</string>
+    <string name="logback">Já possui uma conta? Faça seu login</string>
+    <string name="injuries">Em alguma das regiões indicadas abaixo, há ferimentos? Indique quais.</string>
+    <string name="weight">Qual seu peso corporal em kg?</string>
+    <string name="routine">Em seu dia a dia, você passa mais tempo sentado ou em pé?</string>
+    <string name="sensibility">Em uma escala de 0 a 10, quanta sensibilidade possui nos pés?</string>
+    <string name="routine2">Agora, algumas perguntas sobre sua rotina:</string>
+
+
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="n10">10</string>
+    <string name="none">Não há.</string>
+
+    <string name="onmodules">1 - Ligue a palmilha, conforme orienta a imagem abaixo.</string>
+    <string name="onmodules2">2 - Acesse as configurações de conexão wifi do seu dispositivo. Clique na rede ESP32-Palmilha1 para estabelecer a conexão com a Palmilha 1.</string>
+    <string name="onmodules3">3 - Na aba de configuração que irá surgir, clique na opção Configure o wifi. Acione o roteador wifi de seu dispositivo. Escolha a rede que irá conectar (a rede fornecida pelo celular).</string>
+    <string name="onmodules4">4- Caso haja outra palmilha, ligue-a, e, ainda nas configurações de conexão wifi, clique na rede ESP32-Palmilha2 para estabelecer a conexão com a Palmilha 2. </string>
+    <string name="onmodules6">6 - Para o vibra, garanta que o módulo está ligado (imagem abaixo) e clique na rede ESP32-Eletro para estabelecer a conexão com o sinalizador vibratório. </string>
+    <string name="onmodules5">5 - Na aba de configuração, clique na opção Configure o wifi. Acione o roteador wifi de seu dispositivo. Escolha a rede que irá conectar (a rede fornecida pelo celular).</string>
+    <string name="onmodules7">7 - Novamente, na aba de configuração, clique na opção Configure o wifi. Acione o roteador wifi de seu dispositivo. Escolha a rede que irá conectar (a rede fornecida pelo celular).</string>
+    <string name="onmod">Por fim, vamos conectar o sinalizador de vibração:</string>
+
+
+    <string name="conect1">Siga as seguintes instruções para conectar os módulos do aparelho:</string>
+    <string name="conect2">Agora, precisamos coletar alguns dados para a palmilha. Por favor, siga as instruções:</string>
+    <string name="conectinsole">Posicione a palmilha dentro do calçado, conforme e imagem, e calçe-o. Quando estiver pronto, clique no botão Iniciar realize o passo 1, ao final clique em Parar. Repita o processo para o passo 2 (nos dois passos, sua postura deve proteger a região de interesse):</string>
+    <string name="conectinsole4">(Atenção: As ações devem ser realizadas em superfícies planas)</string>
+    <string name="conectinsole1">1 - Dê dez passos;</string>
+    <string name="conectinsole2">2 - Permaneça na posição em pé por 30 segundos;</string>
+    <string name="conectinsole3">3 - Apoie apenas o pé esquerdo;</string>
+
+    <string name="instruvibra">Primeiro, posicione o estimulador na região escolhida anteriormente, em seguida, selecione os parâmetros de estimulação e clique no botão INICIAR, assim uma estimulação teste será acionada. Caso a vibração ainda não esteja no modo desejado, altere os valores solicitados.  </string>
+    <string name="conectvibra">Por fim, vamos configurar o alerta vibratório:</string>
+    <string name="conectvibra1">Selecione o tempo ativo:</string>
+    <string name="conectvibra2">Selecione o tempo desativo:</string>
+    <string name="conectvibra3">Selecione as repetições:</string>
+    <string name="conectvibra4">Selecione a intensidade:</string>
+    <string name="conectvibra5">(Atenção: Siga orientações médicas para escolher o estímulo.)</string>
+
+    <string name="vibraposition">O primeiro passo é escolher o local onde será posicionado o vibra. A imagem abaixo indica algumas opções.</string>
+
+    <string name="changeparameter">Siga as instruções abaixo para parametrizar a palmilha:</string>
+    <string name="changevibra">Altere os parâmetros do estimulador Vibratório e então clique no botão INICIAR, assim uma estimulação teste será acionada. Caso a vibração ainda não esteja no modo desejado, altere os valores solicitados.  </string>
+</resources>

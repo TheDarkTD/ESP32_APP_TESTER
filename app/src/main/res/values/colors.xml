@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue1">#081433</color>
+    <color name="blue2">#010D20</color>
+    <color name="blue3">#B8CFE1</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#e0dede</color>
+    <color name="gray_700">#EAE8E8</color>
+    <color name="gray_letter">#494949</color>
+
+    <color name="circ1" > </color>
+    <color name="circ2" > </color>
+    <color name="circ3" > </color>
+    <color name="circ4" > </color>
+    <color name="circ5" > </color>
+    <color name="circ6" > </color>
+    <color name="circ7" > </color>
+    <color name="circ8" > </color>
+    <color name="circ9" > </color>
+</resources>
