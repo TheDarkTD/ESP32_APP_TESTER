@@ -12,7 +12,7 @@ import com.example.esp32_app_tester.Devices.Insole;
 import com.example.esp32_app_tester.R;
 
 import java.util.Calendar;
-public class InsolePage extends AppCompatActivity{
+public class InsoleBTPage extends AppCompatActivity{
     Button mNext7Btn, mTest1, mTest2, mTest1stop, mTest2stop;
     Calendar calendar;
     short S1, S2, S3, S4, S5, S6, S7, S8, S9;
@@ -20,7 +20,7 @@ public class InsolePage extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.insolepage);
+        setContentView(R.layout.insolebtpage);
     }
     @Override
     public void onStart() {
@@ -120,7 +120,7 @@ public class InsolePage extends AppCompatActivity{
         mNext7Btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(), EletroPage.class));
+                startActivity(new Intent(getApplicationContext(), EletroBTPage.class));
             }
         });
     }

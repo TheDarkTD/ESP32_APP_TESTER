@@ -69,7 +69,8 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-
+    implementation ("androidx.activity:activity-ktx:1.2.0")
+    implementation ("androidx.fragment:fragment-ktx:1.3.0")
     implementation ("com.squareup.okhttp3:okhttp:4.12.0")
 
 
