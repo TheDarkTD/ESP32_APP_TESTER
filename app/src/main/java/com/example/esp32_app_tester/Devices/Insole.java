@@ -1,4 +1,4 @@
-package com.example.esp32_app_tester.Devices
+package com.example.esp32_app_tester.Devices;
 
 import androidx.annotation.NonNull;
 import org.json.JSONArray;
